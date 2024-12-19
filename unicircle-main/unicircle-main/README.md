@@ -1,4 +1,5 @@
 UniCircle 🎓📦
+
 UniCircle is a MERN stack project designed to solve the challenges of reselling and renting used items within college campuses and hostels. This platform provides a seamless, user-friendly, and secure way for students to buy, sell, or rent items with their peers.
 
 Features ✨
